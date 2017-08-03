@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(void)
+{
+	int num;
+	num = 19981224;
+
+	printf("I am VAIO Pro 13.\n");
+	printf("I think GYF's birthday is %d.\n", num);
+		return 0;
+}
