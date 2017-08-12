@@ -13,5 +13,5 @@ int main(void)
 	printf("n=%d,n squared=%d,n cube=%d", n,n2, n3);
 
 	return 0;
-	//Two ways two show the same result.Easy is better.
+	//Two ways to show the same result.Easy is better.
 }
